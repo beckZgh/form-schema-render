@@ -1,6 +1,7 @@
 {
-  "name": "formschemarender",
-  "version": "0.0.0",
+  "name": "form-schema-render",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
